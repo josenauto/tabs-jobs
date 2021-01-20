@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { FaAngleDoubleRight } from 'react-icons/fa';
 const url = "https://josenauto.github.io/api/tabs-jobs-api.json";
 
 function App() {
