@@ -34,7 +34,7 @@ function App() {
         <h2>Experiencia</h2>
       </div>
       <div>
-        {/*btn container*/}
+        {/*Botone de empresas*/}
         <div>
           {jobs.map((item, index) => {
             return (
@@ -45,7 +45,7 @@ function App() {
             );
           })}
         </div>
-        {/*job info*/}
+        {/*Información del trabajo*/}
         <div>
           <h3>{title}</h3>
           <h4>{company}</h4>
